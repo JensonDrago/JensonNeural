@@ -1,0 +1,10 @@
+boto3
+pydantic
+python-dotenv
+fastapi
+uvicorn
+requests
+neo4j
+pandas
+numpy
+gradio
