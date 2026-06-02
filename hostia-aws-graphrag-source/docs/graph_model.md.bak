@@ -1,0 +1,2 @@
+- Nodos: Program, Job, Step, Routine, Dataset, DB2Table, MallaObject, etc.
+- Relaciones: CALLS, EXECUTES, READS, WRITES, DEPENDS_ON, PRECEDES, etc.
