@@ -11,5 +11,5 @@ def chat(payload: dict):
     question = payload.get("question", "")
     return {
         "question": question,
-        "answer": "GraphRAG AWS backend pendiente de implementación.",
+        "answer": "GraphRAG AWS backend pendiente de implementacion.",
     }
